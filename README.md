@@ -6,7 +6,7 @@
 
 
 ![Perion GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusperion&show_icons=true&theme=tokyonight&count_private=true)
-_________________________________________________________________________________________________________________________________________________________________________
+
 
 ### Languages and Tools:
 
