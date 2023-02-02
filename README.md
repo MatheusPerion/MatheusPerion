@@ -23,7 +23,7 @@
 
 
 <div align="center" style="display: inline_block">
-  <img align="center" src="Banner_Hub.jpg" />
+  <img align="center" src="Banner_Hub.png" />
   
 </div><br/>
 
