@@ -27,6 +27,8 @@
   
 </div><br/>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=matheusperion&bg_color=0d1117&color=ffffff&line=696969&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ##
 
 <h3 align="center">Outros Contatos:</h3>
@@ -37,9 +39,4 @@
   <a href="mailto:matheusperion@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FAFDF&height=120&section=footer"/>
